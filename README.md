@@ -12,7 +12,7 @@
 
 *MENTOR*:  NEELA SANTOSH KUMAR
 
-# Portfolio Responsive Complete
+# Portfolio Responsive
 
 ### Portfolio Responsive Complete
 
